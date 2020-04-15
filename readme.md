@@ -1,5 +1,7 @@
 A Demo NodeJS App for playing with azure cognitives APIS
 
+# Instructions for nodeJS App
+
 Step 1: Get Azure API Endpoint and key
 https://www.youtube.com/watch?v=PmknRU1zKrY
 
@@ -13,3 +15,12 @@ https://nodejs.org/en/download/
 
 step 3: run app
 > node index.js or > yarn start
+
+
+# Instructions for python app 2.x
+1. install dependencies
+>python -m pip install azure-cognitiveservices-language-textanalytics
+
+2. running app
+> cd python
+> python .\app.py
